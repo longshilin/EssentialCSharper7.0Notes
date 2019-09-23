@@ -1,0 +1,11 @@
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/bin/Debug/netcoreapp2.2/Chapter01_C#概述.deps.json
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/bin/Debug/netcoreapp2.2/Chapter01_C#概述.runtimeconfig.json
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/bin/Debug/netcoreapp2.2/Chapter01_C#概述.runtimeconfig.dev.json
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/bin/Debug/netcoreapp2.2/Chapter01_C#概述.dll
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/bin/Debug/netcoreapp2.2/Chapter01_C#概述.pdb
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/obj/Debug/netcoreapp2.2/Chapter01_C#概述.csprojAssemblyReference.cache
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/obj/Debug/netcoreapp2.2/Chapter01_C#概述.csproj.CoreCompileInputs.cache
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/obj/Debug/netcoreapp2.2/Chapter01_C#概述.AssemblyInfoInputs.cache
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/obj/Debug/netcoreapp2.2/Chapter01_C#概述.AssemblyInfo.cs
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/obj/Debug/netcoreapp2.2/Chapter01_C#概述.dll
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter01_C#概述/obj/Debug/netcoreapp2.2/Chapter01_C#概述.pdb

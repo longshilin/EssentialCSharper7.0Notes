@@ -1,1 +1,1 @@
-# EssentialCSharper7.0Notes
+# Essential CSharper7.0 Notes

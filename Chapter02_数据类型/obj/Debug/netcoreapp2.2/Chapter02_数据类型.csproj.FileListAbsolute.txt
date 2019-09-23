@@ -1,0 +1,11 @@
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/bin/Debug/netcoreapp2.2/Chapter02_数据类型.deps.json
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/bin/Debug/netcoreapp2.2/Chapter02_数据类型.runtimeconfig.json
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/bin/Debug/netcoreapp2.2/Chapter02_数据类型.runtimeconfig.dev.json
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/bin/Debug/netcoreapp2.2/Chapter02_数据类型.dll
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/bin/Debug/netcoreapp2.2/Chapter02_数据类型.pdb
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/obj/Debug/netcoreapp2.2/Chapter02_数据类型.csprojAssemblyReference.cache
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/obj/Debug/netcoreapp2.2/Chapter02_数据类型.csproj.CoreCompileInputs.cache
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/obj/Debug/netcoreapp2.2/Chapter02_数据类型.AssemblyInfoInputs.cache
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/obj/Debug/netcoreapp2.2/Chapter02_数据类型.AssemblyInfo.cs
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/obj/Debug/netcoreapp2.2/Chapter02_数据类型.dll
+/Users/longsl/RiderProjects/EssentialCSharper7.0Notes/Chapter02_数据类型/obj/Debug/netcoreapp2.2/Chapter02_数据类型.pdb
